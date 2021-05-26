@@ -7,7 +7,7 @@ This program is designed to sort spikes into single, isolated units from electro
 
 This code is distributed under the GNU General Public License v3.0 (GPLv3), for more information, see the LICENSE file from this repository
 
-For more information or questions, please contact Daniel Marshall (dmarshal at binghamton dot edu)
+For more information or questions, please contact Flynn OConnell(oconnell at binghamton dot edu)
 
 ## Installation
 
